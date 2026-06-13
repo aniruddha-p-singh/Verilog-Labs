@@ -44,31 +44,6 @@ Verilog-Labs/
 └── ALU/
 ```
 
----
-
-## 📚 Completed Projects
-
-| Project    | Description                                     | Status      |
-| ---------- | ----------------------------------------------- | ----------- |
-| Half Adder | Basic combinational circuit for binary addition | ✅ Completed |
-
----
-
-## 🚀 Upcoming Projects
-
-* Full Adder
-* Ripple Carry Adder
-* Multiplexer
-* Demultiplexer
-* Encoder
-* Decoder
-* Magnitude Comparator
-* Counters
-* Shift Registers
-* Arithmetic Logic Unit (ALU)
-* Finite State Machines (FSM)
-
----
 
 ## 📖 What You'll Find Here
 
