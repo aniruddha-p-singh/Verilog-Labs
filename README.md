@@ -53,7 +53,6 @@ Each project folder contains:
 * Testbench
 * Simulation files
 * Documentation
-* Circuit explanation
 
 ---
 
